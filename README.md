@@ -30,3 +30,4 @@ Hacking isn't just for the bad guys. The good guys need to know it too. Try to b
 
 ## Web Application Exploitation
 Find and demonstrate vulnerabilities in various city systems.
+- https://docs.google.com/document/d/1y4pBwc837FEE2MP5hbOJ8pBA6MbFypb_R91R5pGdxmw/edit
