@@ -1,5 +1,5 @@
 # NCL-CTF-Competition
-I lead a team of 7 to compete in the National Cyber League CTF Competition. This took place during an entire weekend, April 19th to April 21st. Below shows all the skills I learned.
+I lead a team of 7 to compete in the National Cyber League CTF Competition. This took place during an entire weekend, April 19th to April 21st. Below shows all the skills I learned. Most links contain my notes of things I learned and used to study for the competition.
 
 ## Open Source Intelligence
 Obtain information using publicly available data and tools.
